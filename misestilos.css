@@ -1,0 +1,61 @@
+body {font: 10px;
+
+text-align: center;
+
+background-color: #FFE7CC;
+
+}
+
+p{
+
+font-size:20px;
+
+color:#000000;
+
+text-align:center;
+ 
+margin-left: 380px;
+margin-right: 380px
+}
+
+
+h1{
+
+color:#8E6921;
+
+text-align:center;
+font-size:55px;
+}
+
+ul{
+margin-left: 300px;
+text-align: left;
+}
+
+th.holi{
+text-align: center;
+
+background-color: rgb(220, 220, 200);
+}
+
+td.holi{
+text-align: center;
+
+background-color:white;
+
+h2{
+
+color:#8E6921;
+
+text-align:center;
+font-size:45px;
+}
+
+img.xd {
+  border-radius: 100px;
+}
+
+img.lol{
+  border-radius: 10px;
+  width: 330px;
+}
